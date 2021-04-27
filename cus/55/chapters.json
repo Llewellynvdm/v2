@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "Union Simplified",
+    "abbreviation": "cus",
+    "lang": "zh-Hans",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 1,
+    "name": "2 Timothy 1",
+    "url": "https://getbible.net/v2/cus/55/1.json",
+    "sha": "f72b556cda9fb0f8c85036697e21d6e5c82559c5"
+  },
+  "2": {
+    "translation": "Union Simplified",
+    "abbreviation": "cus",
+    "lang": "zh-Hans",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "name": "2 Timothy 2",
+    "url": "https://getbible.net/v2/cus/55/2.json",
+    "sha": "2077d6e585b115dcec3e72d3ad6ecfdcf612c09e"
+  },
+  "3": {
+    "translation": "Union Simplified",
+    "abbreviation": "cus",
+    "lang": "zh-Hans",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 3,
+    "name": "2 Timothy 3",
+    "url": "https://getbible.net/v2/cus/55/3.json",
+    "sha": "d1656ad3579c579a04155dd6e97a3638d6bf447e"
+  },
+  "4": {
+    "translation": "Union Simplified",
+    "abbreviation": "cus",
+    "lang": "zh-Hans",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 4,
+    "name": "2 Timothy 4",
+    "url": "https://getbible.net/v2/cus/55/4.json",
+    "sha": "e476ded80fcc183e2e6cb7f311db81bf189abadf"
+  }
+}

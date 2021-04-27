@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Union Traditional",
+    "abbreviation": "cut",
+    "lang": "zh-Hant",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 1,
+    "name": "Joel 1",
+    "url": "https://getbible.net/v2/cut/29/1.json",
+    "sha": "21a0a22857bc41365f50dd5866a639ea682aa8fd"
+  },
+  "2": {
+    "translation": "Union Traditional",
+    "abbreviation": "cut",
+    "lang": "zh-Hant",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 2,
+    "name": "Joel 2",
+    "url": "https://getbible.net/v2/cut/29/2.json",
+    "sha": "1677118d40c4d4ff1842d8ab222d21308d4746c3"
+  },
+  "3": {
+    "translation": "Union Traditional",
+    "abbreviation": "cut",
+    "lang": "zh-Hant",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 3,
+    "name": "Joel 3",
+    "url": "https://getbible.net/v2/cut/29/3.json",
+    "sha": "308f8b30581c00a2f744a740e4bdca2884895503"
+  }
+}

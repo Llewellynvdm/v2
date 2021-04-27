@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "Union Traditional",
+    "abbreviation": "cut",
+    "lang": "zh-Hant",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 1,
+    "name": "Nahum 1",
+    "url": "https://getbible.net/v2/cut/34/1.json",
+    "sha": "c16530b6195a28302049693cdd33fad81b13d391"
+  },
+  "2": {
+    "translation": "Union Traditional",
+    "abbreviation": "cut",
+    "lang": "zh-Hant",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 2,
+    "name": "Nahum 2",
+    "url": "https://getbible.net/v2/cut/34/2.json",
+    "sha": "eced08640898c827d63235ae44834a6af7c6117d"
+  },
+  "3": {
+    "translation": "Union Traditional",
+    "abbreviation": "cut",
+    "lang": "zh-Hant",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 3,
+    "name": "Nahum 3",
+    "url": "https://getbible.net/v2/cut/34/3.json",
+    "sha": "1b8b2459b85748ac915ccf167fe6da11535e9598"
+  }
+}

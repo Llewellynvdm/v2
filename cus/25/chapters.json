@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "Union Simplified",
+    "abbreviation": "cus",
+    "lang": "zh-Hans",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 1,
+    "name": "Lamentations 1",
+    "url": "https://getbible.net/v2/cus/25/1.json",
+    "sha": "6d6ce3d5dc2d04063d8e85ae4412d7aeb98b4648"
+  },
+  "2": {
+    "translation": "Union Simplified",
+    "abbreviation": "cus",
+    "lang": "zh-Hans",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 2,
+    "name": "Lamentations 2",
+    "url": "https://getbible.net/v2/cus/25/2.json",
+    "sha": "35ee8feaba05fc8b6cee732bba69e6be27434e1c"
+  },
+  "3": {
+    "translation": "Union Simplified",
+    "abbreviation": "cus",
+    "lang": "zh-Hans",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 3,
+    "name": "Lamentations 3",
+    "url": "https://getbible.net/v2/cus/25/3.json",
+    "sha": "205833e2d2e4578c5bb2145393917d841f062ed4"
+  },
+  "4": {
+    "translation": "Union Simplified",
+    "abbreviation": "cus",
+    "lang": "zh-Hans",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 4,
+    "name": "Lamentations 4",
+    "url": "https://getbible.net/v2/cus/25/4.json",
+    "sha": "dfb88ffbaa2784b42f42e4fe4ec1c3320663d796"
+  },
+  "5": {
+    "translation": "Union Simplified",
+    "abbreviation": "cus",
+    "lang": "zh-Hans",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 5,
+    "name": "Lamentations 5",
+    "url": "https://getbible.net/v2/cus/25/5.json",
+    "sha": "a958e4373e10a4c22f86170fa9b255ead0021de8"
+  }
+}
