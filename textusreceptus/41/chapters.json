@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Mark 1",
     "url": "https://getbible.net/v2/textusreceptus/41/1.json",
-    "sha": "0c717d44d4d35e5dc2c359cb9b6ebb2b57cb0f30"
+    "sha": "174d95e4b28cfe293ebb74cc8b8607013880bc43"
   },
   "2": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Mark 2",
     "url": "https://getbible.net/v2/textusreceptus/41/2.json",
-    "sha": "3a3082d29dce6f1d450215091d98aa969e7d7779"
+    "sha": "0b106d8ba0eaff55b8fdbb75f832692ae741b661"
   },
   "3": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Mark 3",
     "url": "https://getbible.net/v2/textusreceptus/41/3.json",
-    "sha": "9bd2898c66f2b3663eacaea3665d2c168ae3dffc"
+    "sha": "001cb6fd103e2abbad25c394f466e8fe5f9a022f"
   },
   "4": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Mark 4",
     "url": "https://getbible.net/v2/textusreceptus/41/4.json",
-    "sha": "b9beb97b29de26f605d650267a35516d1680e5e0"
+    "sha": "fe805594c7b09cb8af2bda50fd72f6e16ea4203a"
   },
   "5": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Mark 5",
     "url": "https://getbible.net/v2/textusreceptus/41/5.json",
-    "sha": "bb2d8d73a9dcc6d8a1d5205cad60534fd45f596a"
+    "sha": "62921c06b10ac0b815e3b1754a7f9f26ea7e0baa"
   },
   "6": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Mark 6",
     "url": "https://getbible.net/v2/textusreceptus/41/6.json",
-    "sha": "3bfb6d5a77137115cc2757a5f4e693f7c72bc820"
+    "sha": "4e8bcfbac8dcd6b4afad2fa1dbed51027c9f74e2"
   },
   "7": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Mark 7",
     "url": "https://getbible.net/v2/textusreceptus/41/7.json",
-    "sha": "6b4acd5288e4480e771799a253bd841b403dc24a"
+    "sha": "8896122ed9d8e70e4d296bde2728ca297bc1f92d"
   },
   "8": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Mark 8",
     "url": "https://getbible.net/v2/textusreceptus/41/8.json",
-    "sha": "0bd1c40539408d4ee6155cd899f7cbaff1e003aa"
+    "sha": "a7c8150300623d6e140a232d4b07f695cb94cce7"
   },
   "9": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Mark 9",
     "url": "https://getbible.net/v2/textusreceptus/41/9.json",
-    "sha": "4e326a71a5fb85799b797f785b8f75c3f336f6a4"
+    "sha": "9d309d4c116e7be0a77d7604ef2c1b96fdee2ce9"
   },
   "10": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Mark 10",
     "url": "https://getbible.net/v2/textusreceptus/41/10.json",
-    "sha": "a3fedf24b53ae26e5f71dd8d70d398134f33cba9"
+    "sha": "eb67934f75880c82df04f43363c031f801eae70c"
   },
   "11": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Mark 11",
     "url": "https://getbible.net/v2/textusreceptus/41/11.json",
-    "sha": "5f13352da6caa0b3a5584ce0c7f776e5860a05c9"
+    "sha": "db842ef2b10fa80bf6df39677dcb88765f4485dd"
   },
   "12": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "Mark 12",
     "url": "https://getbible.net/v2/textusreceptus/41/12.json",
-    "sha": "12faa215c1e70f6573d1747bee1d48dfbaca863e"
+    "sha": "ce9084166d2c6f45d6ec7003f021289ecc5cb804"
   },
   "13": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -179,7 +179,7 @@
     "chapter": 13,
     "name": "Mark 13",
     "url": "https://getbible.net/v2/textusreceptus/41/13.json",
-    "sha": "8c9adf9de3d5b3c69d4170a504912fb2285be600"
+    "sha": "95d2b34441360e2b81a59ebe49bcfe7a91099ab8"
   },
   "14": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -193,7 +193,7 @@
     "chapter": 14,
     "name": "Mark 14",
     "url": "https://getbible.net/v2/textusreceptus/41/14.json",
-    "sha": "c7acff51fa4c8caea6ced61b37e620144de0c006"
+    "sha": "60a552d9e3b0c8aa1faa98aca352049df30c758a"
   },
   "15": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -207,7 +207,7 @@
     "chapter": 15,
     "name": "Mark 15",
     "url": "https://getbible.net/v2/textusreceptus/41/15.json",
-    "sha": "37a78cb80b45109ae959898aefdd7626dd5bf3db"
+    "sha": "7f869694d25134386bc0fb0db5c5ca0f05bff821"
   },
   "16": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -221,6 +221,6 @@
     "chapter": 16,
     "name": "Mark 16",
     "url": "https://getbible.net/v2/textusreceptus/41/16.json",
-    "sha": "2008426a3beb1695ca395459aa56aaa8b1e32cf0"
+    "sha": "d662982972d746053fa239a7585dac73d86e13eb"
   }
 }

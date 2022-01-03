@@ -97,26 +97,27 @@
     "language": "Greek",
     "direction": "LTR",
     "encoding": "UTF-8",
-    "distribution_lcsh": "Bible. N.T. Greek.",
-    "distribution_version": "2.4",
-    "distribution_version_date": "2014-04-13",
-    "distribution_abbreviation": "textusreceptus",
+    "distribution_lcsh": "Bible.Ancient Greek (to 1453)",
+    "distribution_version": "3.0",
+    "distribution_version_date": "2021-10-19",
+    "distribution_abbreviation": "Textus Receptus",
     "distribution_about": "The Textus Receptus with complete parsing information for all Greek words; base text is Stephens 1550, with variants of Scrivener 1894.",
-    "distribution_license": "Creative Commons: by-nc-sa",
+    "distribution_license": "Creative Commons: BY-NC-SA 4.0",
     "distribution_sourcetype": "OSIS",
     "distribution_source": "https://sites.google.com/a/wmail.fi/greeknt/home/greeknt",
-    "distribution_versification": "",
+    "distribution_versification": "KJV",
     "distribution_history": {
-      "history_2.4": "Corrected theta and psi encoding (2014-04-13)",
-      "history_2.3": "Corrected spacing errors, morphology encoding (2014-02-22)",
-      "history_2.2.1": "Added NoParagraphs feature (2014-01-18)",
-      "history_2.2": "Updated to February 3, 2013 edition (2014-01-16)",
-      "history_2.1": "Updated to March 15, 2011 edition (2011-03-28)",
-      "history_2.0": "Created new OSIS edition from July 17, 2007 edition (2009-11-01)",
+      "history_1.1": "corrected Strong's numbers & variants",
       "history_1.2": "Changed TextSource",
-      "history_1.1": "corrected Strong's numbers & variants"
+      "history_2.0": "Created new OSIS edition from July 17, 2007 edition (2009-11-01)",
+      "history_2.1": "Updated to March 15, 2011 edition (2011-03-28)",
+      "history_2.2": "Updated to February 3, 2013 edition (2014-01-16)",
+      "history_2.2.1": "Added NoParagraphs feature (2014-01-18)",
+      "history_2.3": "Corrected spacing errors, morphology encoding (2014-02-22)",
+      "history_2.4": "Corrected theta and psi encoding (2014-04-13)",
+      "history_3.0": "(2021-10-19) Correct issues with the Strong numbers reported in the bug tracker https://tracker.crosswire.org/browse/MOD-349"
     },
     "url": "https://getbible.net/v2/textusreceptus.json",
-    "sha": "5fb151e129a226efb26a921f0fa02fe0ab91dc21"
+    "sha": "419480596bd6a4c9bd0a215f2f93062c23f82116"
   }
 }

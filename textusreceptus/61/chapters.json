@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "2 Peter 1",
     "url": "https://getbible.net/v2/textusreceptus/61/1.json",
-    "sha": "d7a332e122d1bf0c7454dc5c0bf33afbc0180dad"
+    "sha": "245a85feda9e1a250680d7f23ffa3cf7e932272f"
   },
   "2": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "2 Peter 2",
     "url": "https://getbible.net/v2/textusreceptus/61/2.json",
-    "sha": "44c5643d18348fcd92f1838dc2e3b46c2c0ae0c8"
+    "sha": "bf060e186b00334be1c6e328485500e062dab6c3"
   },
   "3": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "2 Peter 3",
     "url": "https://getbible.net/v2/textusreceptus/61/3.json",
-    "sha": "ff5e39c81ef06256964e3e5deb32322208e7bd89"
+    "sha": "c30377835a451cdc383899c5d133aa50d269cbb6"
   }
 }

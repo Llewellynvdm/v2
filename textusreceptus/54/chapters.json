@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "1 Timothy 1",
     "url": "https://getbible.net/v2/textusreceptus/54/1.json",
-    "sha": "e15470074238f636f5062df8893cb78964940443"
+    "sha": "8cb379f567b6fd692d53f884f575b31589f450a0"
   },
   "2": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "1 Timothy 2",
     "url": "https://getbible.net/v2/textusreceptus/54/2.json",
-    "sha": "ecd370a48046b58c20778eed988cd74818153639"
+    "sha": "a97093dbfc7773fef1ca17268402f23748629e35"
   },
   "3": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "1 Timothy 3",
     "url": "https://getbible.net/v2/textusreceptus/54/3.json",
-    "sha": "ca5affff89703c397fb437f54d8e0bfb14f167f8"
+    "sha": "375074f349f016e54894f3685f039f8e0d429ab8"
   },
   "4": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "1 Timothy 4",
     "url": "https://getbible.net/v2/textusreceptus/54/4.json",
-    "sha": "78cb2c85634ba7cb5b523c852ca8c2c977934dfe"
+    "sha": "9aacf34e9cf9beb7d610f070e892eec5f2970178"
   },
   "5": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "1 Timothy 5",
     "url": "https://getbible.net/v2/textusreceptus/54/5.json",
-    "sha": "f306cc3f2b78ff325f676958bfc3bb8fc94586d6"
+    "sha": "cbb755bd3352818191c3f7b3d209d937682c15d7"
   },
   "6": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "1 Timothy 6",
     "url": "https://getbible.net/v2/textusreceptus/54/6.json",
-    "sha": "ab57dbd4be2e4e59150598d9bb860c573357f542"
+    "sha": "6547aa9c0bbf08733ba100c7f172a9657ecc6fdb"
   }
 }

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Galatians 1",
     "url": "https://getbible.net/v2/textusreceptus/48/1.json",
-    "sha": "16fafa61de9ea1fa9f5b1571c38c2b2ace7ed5da"
+    "sha": "306053c701991da54b52dd3b4f0d003a57a87763"
   },
   "2": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Galatians 2",
     "url": "https://getbible.net/v2/textusreceptus/48/2.json",
-    "sha": "f2628e003d78b4c7610307884aef603113d9fb43"
+    "sha": "b14f2c60a82da9c7d5eb99ead53644ad0f52e315"
   },
   "3": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Galatians 3",
     "url": "https://getbible.net/v2/textusreceptus/48/3.json",
-    "sha": "139e220413db4927b2d72173c34673a1317bb5f2"
+    "sha": "f3c6e215efc9411785feafdd59635e22546a62a3"
   },
   "4": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Galatians 4",
     "url": "https://getbible.net/v2/textusreceptus/48/4.json",
-    "sha": "807eadae60bb8e2a1dac7efbb7b424b5542dab10"
+    "sha": "9a2c7a0f6c075236341a35c8605dfd2a5dd79ad5"
   },
   "5": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Galatians 5",
     "url": "https://getbible.net/v2/textusreceptus/48/5.json",
-    "sha": "a67960a0c2a2c8b53a81328fb971e88541aed21c"
+    "sha": "b5f6649e0eed566438d19b2391cae5411a75ba07"
   },
   "6": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "Galatians 6",
     "url": "https://getbible.net/v2/textusreceptus/48/6.json",
-    "sha": "3f8bba2c9cd041e21a7941ef3e98df881b10c117"
+    "sha": "9c0a9dc2fc1d7390737aa8a0d53ff9b40fcc9000"
   }
 }

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Ephesians 1",
     "url": "https://getbible.net/v2/textusreceptus/49/1.json",
-    "sha": "41ae39db5945207c00eae2cbf87618b3b36645a9"
+    "sha": "36d0b7d8fa3785bcaaa593c3b582f35c42ad0fd1"
   },
   "2": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Ephesians 2",
     "url": "https://getbible.net/v2/textusreceptus/49/2.json",
-    "sha": "260979404167657a767269c5e0db6630d0cbbfb5"
+    "sha": "5bd094813031557b526ae39c5f175b709225adce"
   },
   "3": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Ephesians 3",
     "url": "https://getbible.net/v2/textusreceptus/49/3.json",
-    "sha": "c0af1894f9df877cace9913a6a8f3c80f00b1c92"
+    "sha": "0fe69861e54ade6a34dacf8ff2f53a0304234164"
   },
   "4": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Ephesians 4",
     "url": "https://getbible.net/v2/textusreceptus/49/4.json",
-    "sha": "47778e19e1145a5db583ff5149621e6e29b847be"
+    "sha": "3d96834bacc7888b576778e13950e603bf3ec587"
   },
   "5": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Ephesians 5",
     "url": "https://getbible.net/v2/textusreceptus/49/5.json",
-    "sha": "181e2c8839751614b27b270db4aff1c788e02738"
+    "sha": "1134b792903464d0caa6ed0179c0350205cc072c"
   },
   "6": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -81,6 +81,6 @@
     "chapter": 6,
     "name": "Ephesians 6",
     "url": "https://getbible.net/v2/textusreceptus/49/6.json",
-    "sha": "332f87b21704803bd5baf4629378755f89057192"
+    "sha": "168303d48b43fede23be9245eee03e90ff6a3b0e"
   }
 }

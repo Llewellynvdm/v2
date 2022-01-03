@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Luke 1",
     "url": "https://getbible.net/v2/textusreceptus/42/1.json",
-    "sha": "c5e36b3ae5baab1fe1189ef3aac8df1dd48094ff"
+    "sha": "465a6f175fc58fe43fec88bf7ed8099a82ec764c"
   },
   "2": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Luke 2",
     "url": "https://getbible.net/v2/textusreceptus/42/2.json",
-    "sha": "d0f0302cd8e93a0c50bf9dbbd6df1d0e28250780"
+    "sha": "e79aa0d22b5ae6e8983a7c7d011f5951b4b282be"
   },
   "3": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "Luke 3",
     "url": "https://getbible.net/v2/textusreceptus/42/3.json",
-    "sha": "8cec225c97774ece8954139a2f3ed09cf7a7c3c8"
+    "sha": "5b0faf20faa5aa3650a2e91254479cfbec5ae0d4"
   },
   "4": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "Luke 4",
     "url": "https://getbible.net/v2/textusreceptus/42/4.json",
-    "sha": "8f65fc4c4f212ded6b212875ed8f8b040e8df960"
+    "sha": "006e35e43932e0c0f8e8378446a9af8a99d8a0c6"
   },
   "5": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "Luke 5",
     "url": "https://getbible.net/v2/textusreceptus/42/5.json",
-    "sha": "e16b85550bb24afe3883de053fda87a9d964f78d"
+    "sha": "4b5eabd46ad8c8f1ed657bcd50fdd20afaf4ace2"
   },
   "6": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "Luke 6",
     "url": "https://getbible.net/v2/textusreceptus/42/6.json",
-    "sha": "4b7105d0cce8737c186bb88a5edb2a8aa5b3dd23"
+    "sha": "a671ca56fe62ebc53df5d4b7e6cd4740796bcfef"
   },
   "7": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "Luke 7",
     "url": "https://getbible.net/v2/textusreceptus/42/7.json",
-    "sha": "4686830633bc26067ede0dfd0f7d6cd4d0c19d32"
+    "sha": "d9bdf8b27e5d25d545a3991a0d87ca65b1d84da2"
   },
   "8": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "Luke 8",
     "url": "https://getbible.net/v2/textusreceptus/42/8.json",
-    "sha": "04d848ccc0ebfee925fcb1531edc2c88e16e569a"
+    "sha": "c938961e0f872203a04991828b4ef2f4858ca5d8"
   },
   "9": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "Luke 9",
     "url": "https://getbible.net/v2/textusreceptus/42/9.json",
-    "sha": "731104a48cd524a81bae07f9e81faf12e96175e2"
+    "sha": "2a20a3436d7615ca16f73b95eba37b09ea122471"
   },
   "10": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "Luke 10",
     "url": "https://getbible.net/v2/textusreceptus/42/10.json",
-    "sha": "432388831b467fa3a2e1ff7e7118318620f18e06"
+    "sha": "3473da47502bed621f5aafd53b5c92f6d7ed8d5f"
   },
   "11": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "Luke 11",
     "url": "https://getbible.net/v2/textusreceptus/42/11.json",
-    "sha": "e060b28af99516e9b7bce1a959123d0d79dc3405"
+    "sha": "1937bea808bac97f17abc6c9dfc7c7cf7f37cad7"
   },
   "12": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "Luke 12",
     "url": "https://getbible.net/v2/textusreceptus/42/12.json",
-    "sha": "4188ccecb7f539b4d93a021cdc35f45de4d573f4"
+    "sha": "12c6ab64394f69be7a18312657cbd262b698d2e5"
   },
   "13": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -179,7 +179,7 @@
     "chapter": 13,
     "name": "Luke 13",
     "url": "https://getbible.net/v2/textusreceptus/42/13.json",
-    "sha": "4777b4ba4cd34776012a7516cdf71bb3eb82775e"
+    "sha": "39a06b635d8deac9b6c8fbf526ee2d6a6d150f30"
   },
   "14": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -193,7 +193,7 @@
     "chapter": 14,
     "name": "Luke 14",
     "url": "https://getbible.net/v2/textusreceptus/42/14.json",
-    "sha": "cbee8b57e5e270f6a033790a015f31e990e56b45"
+    "sha": "3c27dc0461e4db489a3cff9499689915d541633c"
   },
   "15": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -207,7 +207,7 @@
     "chapter": 15,
     "name": "Luke 15",
     "url": "https://getbible.net/v2/textusreceptus/42/15.json",
-    "sha": "d486030a0dd825f5df92f4ebbf1fb5ef333c1328"
+    "sha": "a86b9cf1ada6ccfcf7c28a334bc73efccc3a5444"
   },
   "16": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -221,7 +221,7 @@
     "chapter": 16,
     "name": "Luke 16",
     "url": "https://getbible.net/v2/textusreceptus/42/16.json",
-    "sha": "b7f78b781f4339ba5f66fb0f04270464920a4c94"
+    "sha": "f5573f931e252d4f62c10ac3ccd389ee862fb43a"
   },
   "17": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -235,7 +235,7 @@
     "chapter": 17,
     "name": "Luke 17",
     "url": "https://getbible.net/v2/textusreceptus/42/17.json",
-    "sha": "ca59d03933ca1bf23f0392b6b74b24859a3673f9"
+    "sha": "d33c97b7bd51a61acf17f2f8c9aa3ac24af59ad4"
   },
   "18": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -249,7 +249,7 @@
     "chapter": 18,
     "name": "Luke 18",
     "url": "https://getbible.net/v2/textusreceptus/42/18.json",
-    "sha": "5e4433ff6a6dcabb0a8236fef9613d22b30661dd"
+    "sha": "2e782848a13b0ee8724f7e68818e10682df1cac2"
   },
   "19": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -263,7 +263,7 @@
     "chapter": 19,
     "name": "Luke 19",
     "url": "https://getbible.net/v2/textusreceptus/42/19.json",
-    "sha": "d301feda7595d83da10e2573e5da932cae3faa30"
+    "sha": "90a58a8271be60d4fe6c6a73bf145d3d8343a2e5"
   },
   "20": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -277,7 +277,7 @@
     "chapter": 20,
     "name": "Luke 20",
     "url": "https://getbible.net/v2/textusreceptus/42/20.json",
-    "sha": "cba0f225cfa14dbc2111ea1016ffd07fa5002769"
+    "sha": "91d850604a61bddc65ab78c99b9abd46a90127fa"
   },
   "21": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -291,7 +291,7 @@
     "chapter": 21,
     "name": "Luke 21",
     "url": "https://getbible.net/v2/textusreceptus/42/21.json",
-    "sha": "78a8d21eaa71d29f104c7c13c300cca3b8c342a6"
+    "sha": "3124b004a21dd6ad326b65b43c332c99343a59a5"
   },
   "22": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -305,7 +305,7 @@
     "chapter": 22,
     "name": "Luke 22",
     "url": "https://getbible.net/v2/textusreceptus/42/22.json",
-    "sha": "f18bf1dae7f477b287007b17dccbed092a9114d4"
+    "sha": "ede8a5897ddad77cd1b13c90a8143366ca90145a"
   },
   "23": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -319,7 +319,7 @@
     "chapter": 23,
     "name": "Luke 23",
     "url": "https://getbible.net/v2/textusreceptus/42/23.json",
-    "sha": "fb31617c3d206bd328b5b75925d260b1f914f4b7"
+    "sha": "b1dffd1ccbd1dc5ef6ae5a5483630320517980f7"
   },
   "24": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -333,6 +333,6 @@
     "chapter": 24,
     "name": "Luke 24",
     "url": "https://getbible.net/v2/textusreceptus/42/24.json",
-    "sha": "e92d26421a1f5e434809e889123a893ac3fa6963"
+    "sha": "62e08c72ceab953fb59e96846f71a2067d725f38"
   }
 }

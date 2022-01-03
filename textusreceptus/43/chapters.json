@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "John 1",
     "url": "https://getbible.net/v2/textusreceptus/43/1.json",
-    "sha": "0d07a70303ab05a5b43b0e3c946a353e10176db0"
+    "sha": "e488cba842f9cb97c8f629bf740aa1ff508921cc"
   },
   "2": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "John 2",
     "url": "https://getbible.net/v2/textusreceptus/43/2.json",
-    "sha": "8fd44dc8572c56889ed2afdae1bf33787cbd344d"
+    "sha": "9cd751bc5727104a54125137667373b4c87d4d1a"
   },
   "3": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "John 3",
     "url": "https://getbible.net/v2/textusreceptus/43/3.json",
-    "sha": "620291327f76193bea8b71f5b685e4640ccea1fb"
+    "sha": "a1d4dbd507192d4d0266ccac8bef328c64c2786e"
   },
   "4": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "John 4",
     "url": "https://getbible.net/v2/textusreceptus/43/4.json",
-    "sha": "c6327d72ddf43fa248a18ac3aae4f70f9440478a"
+    "sha": "e8ab4970ba5ed57f546e650aaba9d35ff665f040"
   },
   "5": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -67,7 +67,7 @@
     "chapter": 5,
     "name": "John 5",
     "url": "https://getbible.net/v2/textusreceptus/43/5.json",
-    "sha": "362148b921dec3370b42067585a94a9c81208092"
+    "sha": "b398780576f8e71a6449eede8f6871646e52902a"
   },
   "6": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -81,7 +81,7 @@
     "chapter": 6,
     "name": "John 6",
     "url": "https://getbible.net/v2/textusreceptus/43/6.json",
-    "sha": "f7b89b9bb8f7ccb9a7815d0267e0e2b30ccf5593"
+    "sha": "b17be808f4e2fc90d3cefec52545637251637d4c"
   },
   "7": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -95,7 +95,7 @@
     "chapter": 7,
     "name": "John 7",
     "url": "https://getbible.net/v2/textusreceptus/43/7.json",
-    "sha": "af158221d45137a5f37424305c2f38512b2c811e"
+    "sha": "415431e097bb271a4af6c0543d3cbf27055caf02"
   },
   "8": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -109,7 +109,7 @@
     "chapter": 8,
     "name": "John 8",
     "url": "https://getbible.net/v2/textusreceptus/43/8.json",
-    "sha": "757ca4dc34304cf2f99ed6438c5e05b9cd37ca36"
+    "sha": "c46065308e6a9ea028f27e25af1cd40c543204f9"
   },
   "9": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -123,7 +123,7 @@
     "chapter": 9,
     "name": "John 9",
     "url": "https://getbible.net/v2/textusreceptus/43/9.json",
-    "sha": "456fa55c5399e889451c02e30e87fa3ac0e401ac"
+    "sha": "a877dfdf456237507e25404e5d6fc699407d4034"
   },
   "10": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -137,7 +137,7 @@
     "chapter": 10,
     "name": "John 10",
     "url": "https://getbible.net/v2/textusreceptus/43/10.json",
-    "sha": "10245217b650b35f20aafda2aefc21481aa1ae06"
+    "sha": "8770c22677ba954761b8c174cf9930d4d692a445"
   },
   "11": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -151,7 +151,7 @@
     "chapter": 11,
     "name": "John 11",
     "url": "https://getbible.net/v2/textusreceptus/43/11.json",
-    "sha": "9587ac5090c8b9235bfc35e2eed2371e21c29478"
+    "sha": "fb03384161cfddbd1d5a0d310a06ab6700e24599"
   },
   "12": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -165,7 +165,7 @@
     "chapter": 12,
     "name": "John 12",
     "url": "https://getbible.net/v2/textusreceptus/43/12.json",
-    "sha": "cd3d7f5452f4222b08d677ac774ef3685c3e85f9"
+    "sha": "07212c6655101b1070209e8baec6a04c10bb4edc"
   },
   "13": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -179,7 +179,7 @@
     "chapter": 13,
     "name": "John 13",
     "url": "https://getbible.net/v2/textusreceptus/43/13.json",
-    "sha": "97b028789febd9fda218c44f831f52c5c95ec98e"
+    "sha": "a94a7b8c29bc7e2c0b515d9be22161d06a24cced"
   },
   "14": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -193,7 +193,7 @@
     "chapter": 14,
     "name": "John 14",
     "url": "https://getbible.net/v2/textusreceptus/43/14.json",
-    "sha": "86564a706e5787ba6a47d669f069ef7ae5caea9e"
+    "sha": "5f0730f5f0a89221c8ef06dded5c3a2db581643f"
   },
   "15": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -207,7 +207,7 @@
     "chapter": 15,
     "name": "John 15",
     "url": "https://getbible.net/v2/textusreceptus/43/15.json",
-    "sha": "babd161eee9e6f9adff00acad6f44f33b2ceec4c"
+    "sha": "43d0ece78c2425fcd858dcca5711ebffa1a165f1"
   },
   "16": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -221,7 +221,7 @@
     "chapter": 16,
     "name": "John 16",
     "url": "https://getbible.net/v2/textusreceptus/43/16.json",
-    "sha": "7fac1c32843392e47e35fc570c1f7a65616f657a"
+    "sha": "34672160022660534333e1b6cf0a9e84cbdd7bea"
   },
   "17": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -235,7 +235,7 @@
     "chapter": 17,
     "name": "John 17",
     "url": "https://getbible.net/v2/textusreceptus/43/17.json",
-    "sha": "2db21e209696942deca42a98b10cf418bd1fe80c"
+    "sha": "a4f9814c0ea1b0debeb43f58c08afc71a58e6b60"
   },
   "18": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -249,7 +249,7 @@
     "chapter": 18,
     "name": "John 18",
     "url": "https://getbible.net/v2/textusreceptus/43/18.json",
-    "sha": "8f036600cb58ff44ad9c0285c3da7b7275dd9dc4"
+    "sha": "44e10dcba27b773ff42a26f8f844b2335168c818"
   },
   "19": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -263,7 +263,7 @@
     "chapter": 19,
     "name": "John 19",
     "url": "https://getbible.net/v2/textusreceptus/43/19.json",
-    "sha": "9fcee9dec4e0a94ae8fb1c88bea635801681de0d"
+    "sha": "be3d8fea45647b2c27ef3461427cac567912082b"
   },
   "20": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -277,7 +277,7 @@
     "chapter": 20,
     "name": "John 20",
     "url": "https://getbible.net/v2/textusreceptus/43/20.json",
-    "sha": "3a48cbb19d2f964ce46aa09add642c9953f64e71"
+    "sha": "0ed3c0b3d81a70497ba6b53a6cb9cb1593ab3ddb"
   },
   "21": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -291,6 +291,6 @@
     "chapter": 21,
     "name": "John 21",
     "url": "https://getbible.net/v2/textusreceptus/43/21.json",
-    "sha": "f2d379797fdfd70c08d041db889ce6d65269b44c"
+    "sha": "aa1e3edabd1ca2878e52747e2bd72c1749327cda"
   }
 }

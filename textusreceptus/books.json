@@ -9,7 +9,7 @@
     "nr": 40,
     "name": "Matthew",
     "url": "https://getbible.net/v2/textusreceptus/40.json",
-    "sha": "35d633c3ff79fd60731f442f1286d2c320cf50b0"
+    "sha": "e9a2b4863eabda6bc081baad274fe45a73f291aa"
   },
   "41": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -21,7 +21,7 @@
     "nr": 41,
     "name": "Mark",
     "url": "https://getbible.net/v2/textusreceptus/41.json",
-    "sha": "3c0ff091b36cfae7aad5a66c016a6cdd0dd9569d"
+    "sha": "6c7dc052c2c2411f16778318f38f2a64ef94f131"
   },
   "42": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -33,7 +33,7 @@
     "nr": 42,
     "name": "Luke",
     "url": "https://getbible.net/v2/textusreceptus/42.json",
-    "sha": "f78a28dc8d4f082b5b47a7e875165dde0614f2a8"
+    "sha": "7c1a334010802bd9324fbaf7f206177a69aa0c40"
   },
   "43": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -45,7 +45,7 @@
     "nr": 43,
     "name": "John",
     "url": "https://getbible.net/v2/textusreceptus/43.json",
-    "sha": "2fae485f0c8b9cebd1b3ab99ed750594eb6d83a7"
+    "sha": "331398f2f8847bf0a2a9ab980b2fa5cf0c8b54e5"
   },
   "44": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -57,7 +57,7 @@
     "nr": 44,
     "name": "Acts",
     "url": "https://getbible.net/v2/textusreceptus/44.json",
-    "sha": "c55ea0bdfbbc36d36a2509dd210a41b41cd2e738"
+    "sha": "167d80079e2b23c8f94dc34e00d382022f7eca53"
   },
   "45": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -69,7 +69,7 @@
     "nr": 45,
     "name": "Romans",
     "url": "https://getbible.net/v2/textusreceptus/45.json",
-    "sha": "3331c4039c78d5cce3639a139c79d308b66f6500"
+    "sha": "44a9942a2f1e59646bd5b8f619f41eadf4fb1090"
   },
   "46": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -81,7 +81,7 @@
     "nr": 46,
     "name": "1 Corinthians",
     "url": "https://getbible.net/v2/textusreceptus/46.json",
-    "sha": "bebed654263c2a1b255c31cc211d096a68cf7c64"
+    "sha": "8481a02b3b251d8385be4525ab503f3c64aeaba1"
   },
   "47": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -93,7 +93,7 @@
     "nr": 47,
     "name": "2 Corinthians",
     "url": "https://getbible.net/v2/textusreceptus/47.json",
-    "sha": "9c525eaf9fca39308e55828bc209168256819926"
+    "sha": "eb8e3feb1558e59b03fcf921261e4e2d2ae4bcca"
   },
   "48": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -105,7 +105,7 @@
     "nr": 48,
     "name": "Galatians",
     "url": "https://getbible.net/v2/textusreceptus/48.json",
-    "sha": "fef9f930b13121b28c5f0ff9f28166effb37f963"
+    "sha": "90357182b4e8373f1485cc3b0912e5c12eb92495"
   },
   "49": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -117,7 +117,7 @@
     "nr": 49,
     "name": "Ephesians",
     "url": "https://getbible.net/v2/textusreceptus/49.json",
-    "sha": "a00027848803d62f32b4cd1a16d0d83dc9aff78b"
+    "sha": "1aa96bc99049bac2041e100685a191654ee02ded"
   },
   "50": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -129,7 +129,7 @@
     "nr": 50,
     "name": "Philippians",
     "url": "https://getbible.net/v2/textusreceptus/50.json",
-    "sha": "e215ce12400f1d0bb1234f3cf4f4a2a170420f9a"
+    "sha": "2868132c18f860779747e0e240688ff74dc8d08a"
   },
   "51": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -141,7 +141,7 @@
     "nr": 51,
     "name": "Colossians",
     "url": "https://getbible.net/v2/textusreceptus/51.json",
-    "sha": "3669b4adb8e352bd6a3fe939085aed25d9a65e0c"
+    "sha": "c4374ccd84750d9f761d49e2b8edd0ef960d3e89"
   },
   "52": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -153,7 +153,7 @@
     "nr": 52,
     "name": "1 Thessalonians",
     "url": "https://getbible.net/v2/textusreceptus/52.json",
-    "sha": "85e320e501b2f50f821237ee877d08686d5938c9"
+    "sha": "c767d2925428c356648210274442f03e65319704"
   },
   "53": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -165,7 +165,7 @@
     "nr": 53,
     "name": "2 Thessalonians",
     "url": "https://getbible.net/v2/textusreceptus/53.json",
-    "sha": "8ad79dc89f032adc26f985711959a968b5bec048"
+    "sha": "cd7d7bfb84079329bd618487487b202af76bacd8"
   },
   "54": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -177,7 +177,7 @@
     "nr": 54,
     "name": "1 Timothy",
     "url": "https://getbible.net/v2/textusreceptus/54.json",
-    "sha": "c04f59fc607a218f5018b6e0a0988f775af2d12a"
+    "sha": "90a010ccdb3db45c55b15a2b4776c0599d9e249e"
   },
   "55": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -189,7 +189,7 @@
     "nr": 55,
     "name": "2 Timothy",
     "url": "https://getbible.net/v2/textusreceptus/55.json",
-    "sha": "07b97c2d717e2a7295fce6ca0747ab5b11ef5c22"
+    "sha": "06c1cded1dfa8121f1504036a88e58071c0ecec7"
   },
   "56": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -201,7 +201,7 @@
     "nr": 56,
     "name": "Titus",
     "url": "https://getbible.net/v2/textusreceptus/56.json",
-    "sha": "d7f576454a703923a0013339414b74c7e57288f6"
+    "sha": "cb66227463e3a36cd8c4266f5584998a00d361a3"
   },
   "57": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -213,7 +213,7 @@
     "nr": 57,
     "name": "Philemon",
     "url": "https://getbible.net/v2/textusreceptus/57.json",
-    "sha": "36a52039a772e82ec0a118f16c6cbf06d5696fb9"
+    "sha": "8e9493e28c8954a9b93ed6a1e2cf213cdc1af92a"
   },
   "58": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -225,7 +225,7 @@
     "nr": 58,
     "name": "Hebrews",
     "url": "https://getbible.net/v2/textusreceptus/58.json",
-    "sha": "028aafff5755c4690199eff294cbe26438ae5835"
+    "sha": "a11c25f6bac1895c4e315b4bd8237fe0b3b81670"
   },
   "59": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -237,7 +237,7 @@
     "nr": 59,
     "name": "James",
     "url": "https://getbible.net/v2/textusreceptus/59.json",
-    "sha": "c85c6702bbc3f2eacbf3e4777992edcbe1d1c7ab"
+    "sha": "15fff5ad860072c6fbf4201bfba4724e7730bbbf"
   },
   "60": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -249,7 +249,7 @@
     "nr": 60,
     "name": "1 Peter",
     "url": "https://getbible.net/v2/textusreceptus/60.json",
-    "sha": "450f88f4ed891ffc02679df76d7f02fc242febed"
+    "sha": "b5478bfe9988adc345f35c8f5941866f7201b395"
   },
   "61": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -261,7 +261,7 @@
     "nr": 61,
     "name": "2 Peter",
     "url": "https://getbible.net/v2/textusreceptus/61.json",
-    "sha": "d6b5a4c85e3ab7a0792c162a7c2269b90df1a017"
+    "sha": "a4fc0a2f002f05a1fd9312fe988285a50780cbd7"
   },
   "62": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -273,7 +273,7 @@
     "nr": 62,
     "name": "1 John",
     "url": "https://getbible.net/v2/textusreceptus/62.json",
-    "sha": "5b898c81e654aef992091cdd8ef06ea6a21fa18e"
+    "sha": "74432703e9bda6716a02dcf407cc0d6e3725cc38"
   },
   "63": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -285,7 +285,7 @@
     "nr": 63,
     "name": "2 John",
     "url": "https://getbible.net/v2/textusreceptus/63.json",
-    "sha": "0f71799e5720b4ebaab513526df3618e03098124"
+    "sha": "7db954d9bac486d509a79b7a3f0e8a693804b36c"
   },
   "64": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -297,7 +297,7 @@
     "nr": 64,
     "name": "3 John",
     "url": "https://getbible.net/v2/textusreceptus/64.json",
-    "sha": "e3c289022073cee87c50dcf4afd2feb0b3ae1fb2"
+    "sha": "1bc4c03ad0d4db9e1c89d41c38dabc0d4f238c3a"
   },
   "65": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -309,7 +309,7 @@
     "nr": 65,
     "name": "Jude",
     "url": "https://getbible.net/v2/textusreceptus/65.json",
-    "sha": "7d1cefc0033a55b3db1450af29a73e4c727c7349"
+    "sha": "fd719fb2f208d8ce8b587183fd167f1d2f290503"
   },
   "66": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -321,6 +321,6 @@
     "nr": 66,
     "name": "Revelation",
     "url": "https://getbible.net/v2/textusreceptus/66.json",
-    "sha": "62e9aecdd653e112dfedc82f884ae8fea9afe2a0"
+    "sha": "0938a87da9b5e5b4e4180daedeac673dc679c27f"
   }
 }

@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "Titus 1",
     "url": "https://getbible.net/v2/textusreceptus/56/1.json",
-    "sha": "be8f46d66ba5d9c708dd1f747c6d87ae5011082d"
+    "sha": "0a0742f337869522ccf18619f290f28f5e790586"
   },
   "2": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "Titus 2",
     "url": "https://getbible.net/v2/textusreceptus/56/2.json",
-    "sha": "53a71d1369777a3d4a14619df035a112e3d2b033"
+    "sha": "0e48686924826fbcc352060f8a632292f2d3e860"
   },
   "3": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -39,6 +39,6 @@
     "chapter": 3,
     "name": "Titus 3",
     "url": "https://getbible.net/v2/textusreceptus/56/3.json",
-    "sha": "26c39039d67e0252a2b07536b3476019ca2fb4ad"
+    "sha": "b1171ef5bf39472e6f0df81651fc4de5855ef09b"
   }
 }

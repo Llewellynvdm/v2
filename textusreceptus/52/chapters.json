@@ -11,7 +11,7 @@
     "chapter": 1,
     "name": "1 Thessalonians 1",
     "url": "https://getbible.net/v2/textusreceptus/52/1.json",
-    "sha": "4a0450ca568fef7c284e7c5e874f4f4ca823d424"
+    "sha": "b312e7e332e67a13c202b5ea66012d2bd74beaff"
   },
   "2": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -25,7 +25,7 @@
     "chapter": 2,
     "name": "1 Thessalonians 2",
     "url": "https://getbible.net/v2/textusreceptus/52/2.json",
-    "sha": "5179d6424b4ee443aa9f5849211142f6f2591103"
+    "sha": "64f45c9aaf87d46d69721036031b5f8c5c2ce297"
   },
   "3": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -39,7 +39,7 @@
     "chapter": 3,
     "name": "1 Thessalonians 3",
     "url": "https://getbible.net/v2/textusreceptus/52/3.json",
-    "sha": "4d8ced6ddfe4b9d9b87326d6610ce116da1b1d14"
+    "sha": "61a9bacc80989c022e0de186f5764c65ae996e80"
   },
   "4": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -53,7 +53,7 @@
     "chapter": 4,
     "name": "1 Thessalonians 4",
     "url": "https://getbible.net/v2/textusreceptus/52/4.json",
-    "sha": "c5bfda72fd6f87dcd4feb8d255b9471091ca76d7"
+    "sha": "667508f5623f2550d0dc9a79e2915041f275b700"
   },
   "5": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
@@ -67,6 +67,6 @@
     "chapter": 5,
     "name": "1 Thessalonians 5",
     "url": "https://getbible.net/v2/textusreceptus/52/5.json",
-    "sha": "f2225d1cd49f3df0b6a5ec2e2a5425b98a87ea5f"
+    "sha": "04f92fb4018d7f5a63f2b2070443009a0caffdb4"
   }
 }
