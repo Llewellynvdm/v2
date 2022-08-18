@@ -1,5 +1,5 @@
 #	language	translation	abbreviation	direction	filename	sha
-1	Hebrew	Aleppo Codex	aleppo	RTL	aleppo	2ceb0b10f7d1599485669b6f36a0456dbcc14b92
+1		Aleppo Codex	aleppo	LTR	aleppo	1567f16903e6f7e67f7181f1d0a6a1f485be4075
 2	Hebrew	OT Westminster Leningrad Codex	codex	RTL	codex	cbcfe733a3cf78a9277715a2b22f7e667c5844b2
 3	English	King James Version	kjv	LTR	kjv	fcf16e7b98fdd11807655102e798d38ceed9d8eb
 4	Greek	NT Textus Receptus (1550 1894) Parsed	textusreceptus	LTR	textusreceptus	419480596bd6a4c9bd0a215f2f93062c23f82116

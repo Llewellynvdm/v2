@@ -2,12 +2,12 @@
   "aleppo": {
     "translation": "Aleppo Codex",
     "abbreviation": "aleppo",
-    "lang": "he",
-    "language": "Hebrew",
-    "direction": "RTL",
+    "lang": "hbo",
+    "language": "",
+    "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible. O.T. Hebrew.",
-    "distribution_version": "2.0",
+    "distribution_version": "2.0.1",
     "distribution_version_date": "2008-11-07",
     "distribution_abbreviation": "aleppo",
     "distribution_about": "The Aleppo Codex without Vowel Points or Punctuation\\par Based on the electronic edition at http://www.mechon-mamre.org",
@@ -16,11 +16,12 @@
     "distribution_source": "http://www.mechon-mamre.org/",
     "distribution_versification": "MT",
     "distribution_history": {
+      "history_1.1": "Converted to OSIS, removed prepended Hebrew verse numbers, removed extraneous copies of verses",
       "history_2.0": "Changed to native versification (MT)",
-      "history_1.1": "Converted to OSIS, removed prepended Hebrew verse numbers, removed extraneous copies of verses"
+      "history_2.0.1": "(2022-08-06) Change Lang to Hebrew Ancient"
     },
     "url": "https://getbible.net/v2/aleppo.json",
-    "sha": "2ceb0b10f7d1599485669b6f36a0456dbcc14b92"
+    "sha": "1567f16903e6f7e67f7181f1d0a6a1f485be4075"
   },
   "codex": {
     "translation": "OT Westminster Leningrad Codex",
