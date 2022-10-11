@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "NCV Simplified",
+    "abbreviation": "cns",
+    "lang": "zh-Hans",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "雅各书",
+    "chapter": 1,
+    "name": "雅各书 1",
+    "url": "https://getbible.net/v2/cns/59/1.json",
+    "sha": "78c798f827409f1d15c8c83c128bf6f1ad5b6dc8"
+  },
+  "2": {
+    "translation": "NCV Simplified",
+    "abbreviation": "cns",
+    "lang": "zh-Hans",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "雅各书",
+    "chapter": 2,
+    "name": "雅各书 2",
+    "url": "https://getbible.net/v2/cns/59/2.json",
+    "sha": "d80954fd74e5b26d621989974d80182e10aefbb7"
+  },
+  "3": {
+    "translation": "NCV Simplified",
+    "abbreviation": "cns",
+    "lang": "zh-Hans",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "雅各书",
+    "chapter": 3,
+    "name": "雅各书 3",
+    "url": "https://getbible.net/v2/cns/59/3.json",
+    "sha": "b5f4b03ad654f99e89422f9cd48b85203e51eacb"
+  },
+  "4": {
+    "translation": "NCV Simplified",
+    "abbreviation": "cns",
+    "lang": "zh-Hans",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "雅各书",
+    "chapter": 4,
+    "name": "雅各书 4",
+    "url": "https://getbible.net/v2/cns/59/4.json",
+    "sha": "27d46e0f5cd36e98ec9e880fb55b1473d2906926"
+  },
+  "5": {
+    "translation": "NCV Simplified",
+    "abbreviation": "cns",
+    "lang": "zh-Hans",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 59,
+    "book_name": "雅各书",
+    "chapter": 5,
+    "name": "雅各书 5",
+    "url": "https://getbible.net/v2/cns/59/5.json",
+    "sha": "c6eea76a867b75fd087883407fea796939bdfec2"
+  }
+}

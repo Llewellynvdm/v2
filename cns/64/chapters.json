@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "NCV Simplified",
+    "abbreviation": "cns",
+    "lang": "zh-Hans",
+    "language": "",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 64,
+    "book_name": "约翰三书",
+    "chapter": 1,
+    "name": "约翰三书 1",
+    "url": "https://getbible.net/v2/cns/64/1.json",
+    "sha": "2f8d065dc078e7356182430357f418cd7c2e384d"
+  }
+}
