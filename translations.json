@@ -2,9 +2,10 @@
   "aleppo": {
     "translation": "Aleppo Codex",
     "abbreviation": "aleppo",
+    "description": "Aleppo Codex",
     "lang": "hbo",
-    "language": "",
-    "direction": "LTR",
+    "language": "Hebrew",
+    "direction": "RTL",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible. O.T. Hebrew.",
     "distribution_version": "2.0.1",
@@ -21,13 +22,14 @@
       "history_2.0.1": "(2022-08-06) Change Lang to Hebrew Ancient"
     },
     "url": "https://api.getbible.net/v2/aleppo.json",
-    "sha": "1567f16903e6f7e67f7181f1d0a6a1f485be4075"
+    "sha": "6044d31a59450ba0507d92bfab1abf15eaf1ac2c"
   },
   "cns": {
     "translation": "NCV Simplified",
     "abbreviation": "cns",
+    "description": "新译本",
     "lang": "zh-Hans",
-    "language": "",
+    "language": "Chinese",
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible.Chinese (Subform \"hans\")",
@@ -45,14 +47,15 @@
       "history_1.1.1": "(2022-08-02) Fix typos in configuration file"
     },
     "url": "https://api.getbible.net/v2/cns.json",
-    "sha": "2ac26e41c2349b8a92e7fb1c2d22ef4029eba996"
+    "sha": "daa5e614f7dc3ec24076c797d3fdbb6f548e596e"
   },
   "codex": {
     "translation": "OT Westminster Leningrad Codex",
     "abbreviation": "codex",
+    "description": "Westminster Leningrad Codex",
     "lang": "hbo",
-    "language": "",
-    "direction": "LTR",
+    "language": "Hebrew",
+    "direction": "RTL",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible.Ancient Hebrew",
     "distribution_version": "2.0",
@@ -78,11 +81,12 @@
       "history_2.0": "(2022-09-17) Updated to WLC 20220916. Solves MOD-287, MOD-288: maqaf punctuation is no more followed by a space, MOD-303: Spurious notes entries removed."
     },
     "url": "https://api.getbible.net/v2/codex.json",
-    "sha": "89861eba4f9c76f58e982ca1fb69c9e0cf036781"
+    "sha": "b4182ca700593decfb84e32efb91ecd9d45b897c"
   },
   "kjv": {
     "translation": "King James Version",
     "abbreviation": "kjv",
+    "description": "King James Version (1769) with Strongs Numbers and Morphology  and CatchWords",
     "lang": "en",
     "language": "English",
     "direction": "LTR",
@@ -117,11 +121,45 @@
       "history_3.1": "(2023-07-19) Conf version updated to 3.1 to match KJVA version."
     },
     "url": "https://api.getbible.net/v2/kjv.json",
-    "sha": "75604f9f2e33f3f0014e8fb53278e6a419d725d6"
+    "sha": "91287fccb61d23727204d11d72d2543241ff4862"
+  },
+  "kjva": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "description": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "distribution_lcsh": "Bible.English",
+    "distribution_version": "3.1",
+    "distribution_version_date": "2023-07-19",
+    "distribution_abbreviation": "kjva",
+    "distribution_about": "This is the King James Version of the Holy Bible (also known as the Authorized Version) with embedded Strong's Numbers.  The rights to the base text are held by the Crown of England.\\par  The Strong's numbers in the OT were obtained from The Bible Foundation: http://www.bf.org.  The NT Strong's data was obtained from The KJV2003 Project at CrossWire: http://www.crosswire.org.  These mechanisms provide a useful means for looking up the exact original language word in a lexicon that is keyed to Strong's numbers.\\par\\par Special thanks to the volunteers at Bible Foundation for keying the Hebrew/English data and of Project KJV2003 for working toward the completion of synchronizing the English phrases to the Stephanas Textus Receptus, and to Dr. Maurice Robinson for providing the base Greek text with Strong's and Morphology.\\par  We are also appreciative of formatting markup that was provided by Michael Paul Johnson at http://www.ebible.org.  Their time and generosity to contribute such for the free use of the Body of Christ is a great blessing and this derivitive work could not have been possible without these efforts of so many individuals.\\par  Version 3.1 incorporates a more recent set of TR data from Dr. Maurice Robinson than was used in all the earlier versions. The TR data was obtained in 2016 from the Greek New Testament sources website \\par https://sites.google.com/a/wmail.fi/greeknt/home/greeknt \\par This was integrated into the OSIS source files of an intermediate version 2.9a hosted at \\par https://www.crosswire.org/~dmsmith/kjv2011/kjv2.9a/ \\par  It is in this spirit that we in turn offer the KJV2003 Project text freely for any purpose.\\par  Any copyright that might be obtained for this effort is held by CrossWire Bible Society © 2003-2023 and CrossWire Bible Society hereby grants a general public license to use this text for any purpose.\\par Inquiries and comments may be directed to:\\par\\par CrossWire Bible Society\\par modules@crosswire.org\\par http://www.crosswire.org",
+    "distribution_license": "GPL",
+    "distribution_sourcetype": "OSIS",
+    "distribution_source": "https://gitlab.com/crosswire-bible-society/kjv",
+    "distribution_versification": "KJVA",
+    "distribution_history": {
+      "history_1.1": "Fixed .conf file GlobalOptionFilters",
+      "history_1.2": "Added Feature StrongsNumbers to configuration",
+      "history_1.3": "Added Morph option",
+      "history_1.4": "Fixed Psalm Titles to use correct GBF tags <HT><Ht>",
+      "history_2.0": "Changed New Testament to use a snapshot of the KJV2003 Project",
+      "history_2.1": "Changed Old Testament to use OSIS tags, removing the last of the GBF markup.  Also updated to 20030624 snapshot of KJV2003.  Compressed.",
+      "history_2.2": "Updated to 20040121 snapshot of KJV2003",
+      "history_2.3": "Fixed bugs",
+      "history_3.0": "Added Apocrypha (2009-10-03)",
+      "history_3.0.1": "Moved to main repository & changed Description (2014-01-15)",
+      "history_3.1": "(2023-07-19) See KJV 3.1 history"
+    },
+    "url": "https://api.getbible.net/v2/kjva.json",
+    "sha": "615f7414236a3695ec20e95c3244e08a9c018725"
   },
   "textusreceptus": {
     "translation": "NT Textus Receptus (1550 1894) Parsed",
     "abbreviation": "textusreceptus",
+    "description": "Textus Receptus (1550/1894)",
     "lang": "grc",
     "language": "Greek",
     "direction": "LTR",
@@ -148,6 +186,6 @@
       "history_3.1": "(2023-03-25) Correction of spurious strong numbers."
     },
     "url": "https://api.getbible.net/v2/textusreceptus.json",
-    "sha": "0e8305fa330e73185d99dc1ec73322fececc6699"
+    "sha": "e5e78447d0966dc55e2acb44be0ac14f05fb1ee0"
   }
 }

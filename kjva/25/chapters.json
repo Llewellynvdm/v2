@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 1,
+    "name": "Lamentations 1",
+    "url": "https://api.getbible.net/v2/kjva/25/1.json",
+    "sha": "e075255839398e92d4e6049485aad9de1a6025b0"
+  },
+  "2": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 2,
+    "name": "Lamentations 2",
+    "url": "https://api.getbible.net/v2/kjva/25/2.json",
+    "sha": "2647f7464d103ebfe5a1ac3f742591cc7eb45fa5"
+  },
+  "3": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 3,
+    "name": "Lamentations 3",
+    "url": "https://api.getbible.net/v2/kjva/25/3.json",
+    "sha": "ee296e4373ff2aba09ccd054d5ef4715aae51992"
+  },
+  "4": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 4,
+    "name": "Lamentations 4",
+    "url": "https://api.getbible.net/v2/kjva/25/4.json",
+    "sha": "f12fb30dfe60a2a1c7b4dd1b79e9a1b9367ffa48"
+  },
+  "5": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 25,
+    "book_name": "Lamentations",
+    "chapter": 5,
+    "name": "Lamentations 5",
+    "url": "https://api.getbible.net/v2/kjva/25/5.json",
+    "sha": "40319f64b7e8f613d751d4d6a25bc96f68d2a7fd"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 64,
+    "book_name": "3 John",
+    "chapter": 1,
+    "name": "3 John 1",
+    "url": "https://api.getbible.net/v2/kjva/64/1.json",
+    "sha": "c586b46efcd0f38710cd745e824fef1b3037c80a"
+  }
+}

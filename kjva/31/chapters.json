@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 31,
+    "book_name": "Obadiah",
+    "chapter": 1,
+    "name": "Obadiah 1",
+    "url": "https://api.getbible.net/v2/kjva/31/1.json",
+    "sha": "97fc662ea525f10e512cc15b125460ce472406f2"
+  }
+}
