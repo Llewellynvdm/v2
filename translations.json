@@ -165,8 +165,8 @@
     "direction": "LTR",
     "encoding": "UTF-8",
     "distribution_lcsh": "Bible.Ancient Greek (to 1453)",
-    "distribution_version": "3.1",
-    "distribution_version_date": "2023-03-25",
+    "distribution_version": "3.2",
+    "distribution_version_date": "2023-10-28",
     "distribution_abbreviation": "Textus Receptus",
     "distribution_about": "The Textus Receptus with complete parsing information for all Greek words; base text is Stephens 1550, with variants of Scrivener 1894.",
     "distribution_license": "Creative Commons: BY-NC-SA 4.0",
@@ -183,9 +183,10 @@
       "history_2.3": "Corrected spacing errors, morphology encoding (2014-02-22)",
       "history_2.4": "Corrected theta and psi encoding (2014-04-13)",
       "history_3.0": "(2021-10-28) Correct issues with the Strong numbers reported in the bug tracker https://tracker.crosswire.org/browse/MOD-349",
-      "history_3.1": "(2023-03-25) Correction of spurious strong numbers."
+      "history_3.1": "(2023-04-03) Correction of spurious strong numbers.",
+      "history_3.2": "(2023-10-28) Correction of ημιν from 1473 to 2249 et υμας from 4771 to 5209."
     },
     "url": "https://api.getbible.net/v2/textusreceptus.json",
-    "sha": "e5e78447d0966dc55e2acb44be0ac14f05fb1ee0"
+    "sha": "d82e1ef5110eda5b571ab94a0f3dd98733755645"
   }
 }
