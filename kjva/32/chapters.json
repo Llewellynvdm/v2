@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 1,
+    "name": "Jonah 1",
+    "url": "https://api.getbible.net/v2/kjva/32/1.json",
+    "sha": "b4ab1633021972f08a2dbba542d7684ab74b21b3"
+  },
+  "2": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 2,
+    "name": "Jonah 2",
+    "url": "https://api.getbible.net/v2/kjva/32/2.json",
+    "sha": "2e32207e57db3dc083101d96a280bc834e19f317"
+  },
+  "3": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 3,
+    "name": "Jonah 3",
+    "url": "https://api.getbible.net/v2/kjva/32/3.json",
+    "sha": "9a81fb06ded5027e27fb2b434535aa1aacdd3673"
+  },
+  "4": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 32,
+    "book_name": "Jonah",
+    "chapter": 4,
+    "name": "Jonah 4",
+    "url": "https://api.getbible.net/v2/kjva/32/4.json",
+    "sha": "5b83aa9141618c1e2d299df998a476b224824fff"
+  }
+}

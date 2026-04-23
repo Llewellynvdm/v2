@@ -1,0 +1,16 @@
+{
+  "1": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 76,
+    "book_name": "Prayer of Azariah",
+    "chapter": 1,
+    "name": "Prayer of Azariah 1",
+    "url": "https://api.getbible.net/v2/kjva/76/1.json",
+    "sha": "8b0d8800c664fbba94ff144dfd35ba6126f3a338"
+  }
+}

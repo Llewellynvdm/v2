@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 1,
+    "name": "2 Timothy 1",
+    "url": "https://api.getbible.net/v2/kjva/55/1.json",
+    "sha": "3b555075d1f49a074b71ace922dc374d18bb2f57"
+  },
+  "2": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 2,
+    "name": "2 Timothy 2",
+    "url": "https://api.getbible.net/v2/kjva/55/2.json",
+    "sha": "31d5f5e615c139566106af83cd76c0f89bac6da0"
+  },
+  "3": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 3,
+    "name": "2 Timothy 3",
+    "url": "https://api.getbible.net/v2/kjva/55/3.json",
+    "sha": "5006d3f10644a417202dee1baa8abc3c6db506b9"
+  },
+  "4": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 55,
+    "book_name": "2 Timothy",
+    "chapter": 4,
+    "name": "2 Timothy 4",
+    "url": "https://api.getbible.net/v2/kjva/55/4.json",
+    "sha": "5f5d57623bd966f2b56149bd0841817642fa588b"
+  }
+}

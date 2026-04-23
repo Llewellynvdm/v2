@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 1,
+    "name": "Titus 1",
+    "url": "https://api.getbible.net/v2/kjva/56/1.json",
+    "sha": "cd942d37e4ae36eda946d97a91f57b862334e6c2"
+  },
+  "2": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 2,
+    "name": "Titus 2",
+    "url": "https://api.getbible.net/v2/kjva/56/2.json",
+    "sha": "7a0110a56209bd953be21a9363b6df8c5838a618"
+  },
+  "3": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 56,
+    "book_name": "Titus",
+    "chapter": 3,
+    "name": "Titus 3",
+    "url": "https://api.getbible.net/v2/kjva/56/3.json",
+    "sha": "135909785bf84182a2a1c5b28dceb5c8f662e989"
+  }
+}

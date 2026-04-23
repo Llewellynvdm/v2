@@ -1,0 +1,58 @@
+{
+  "1": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 1,
+    "name": "Malachi 1",
+    "url": "https://api.getbible.net/v2/kjva/39/1.json",
+    "sha": "cd12fbb87382df78d081adf2c7d9cb3133321069"
+  },
+  "2": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 2,
+    "name": "Malachi 2",
+    "url": "https://api.getbible.net/v2/kjva/39/2.json",
+    "sha": "1d2d085eefb7e45746f6fb8c5a9ab4c692318edf"
+  },
+  "3": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 3,
+    "name": "Malachi 3",
+    "url": "https://api.getbible.net/v2/kjva/39/3.json",
+    "sha": "6707bf353e78f420f551fc6d3634f761ea0a81bd"
+  },
+  "4": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 39,
+    "book_name": "Malachi",
+    "chapter": 4,
+    "name": "Malachi 4",
+    "url": "https://api.getbible.net/v2/kjva/39/4.json",
+    "sha": "4b8c686913877c3fcc2750257312d4266c05ef4e"
+  }
+}

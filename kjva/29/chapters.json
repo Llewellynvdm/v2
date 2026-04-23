@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 1,
+    "name": "Joel 1",
+    "url": "https://api.getbible.net/v2/kjva/29/1.json",
+    "sha": "157cc731a91e4ff4aac1bfd8466d8cade34ae5ac"
+  },
+  "2": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 2,
+    "name": "Joel 2",
+    "url": "https://api.getbible.net/v2/kjva/29/2.json",
+    "sha": "4b87b89629145865b32d049d1c47f30a9245268a"
+  },
+  "3": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 29,
+    "book_name": "Joel",
+    "chapter": 3,
+    "name": "Joel 3",
+    "url": "https://api.getbible.net/v2/kjva/29/3.json",
+    "sha": "baccc008b9aa9959aa86a85791d1bffd1704def0"
+  }
+}

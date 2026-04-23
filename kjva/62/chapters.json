@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 1,
+    "name": "1 John 1",
+    "url": "https://api.getbible.net/v2/kjva/62/1.json",
+    "sha": "120907999acd883a3287f41b0c04f6e0440fdeac"
+  },
+  "2": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 2,
+    "name": "1 John 2",
+    "url": "https://api.getbible.net/v2/kjva/62/2.json",
+    "sha": "1aef18e6b88864de60b384c7251c7b7c903c1220"
+  },
+  "3": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 3,
+    "name": "1 John 3",
+    "url": "https://api.getbible.net/v2/kjva/62/3.json",
+    "sha": "4c880d214953790f1c1ea5f0e0796bce6b5e08db"
+  },
+  "4": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 4,
+    "name": "1 John 4",
+    "url": "https://api.getbible.net/v2/kjva/62/4.json",
+    "sha": "e21138a01814b3b07868754ce423d46d9ef98980"
+  },
+  "5": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 62,
+    "book_name": "1 John",
+    "chapter": 5,
+    "name": "1 John 5",
+    "url": "https://api.getbible.net/v2/kjva/62/5.json",
+    "sha": "9815388e3e8e4d89ed84cf6895f0b61758adf83b"
+  }
+}

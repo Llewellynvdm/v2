@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 1,
+    "name": "Nahum 1",
+    "url": "https://api.getbible.net/v2/kjva/34/1.json",
+    "sha": "a97ddd690efa07bc54529deaa22ac9484a3e71bd"
+  },
+  "2": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 2,
+    "name": "Nahum 2",
+    "url": "https://api.getbible.net/v2/kjva/34/2.json",
+    "sha": "5edf1d81b03e26b856c93f7bb4e0d9cc07f02f22"
+  },
+  "3": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 34,
+    "book_name": "Nahum",
+    "chapter": 3,
+    "name": "Nahum 3",
+    "url": "https://api.getbible.net/v2/kjva/34/3.json",
+    "sha": "9255c60b1322edcf13ae56aa4fb101c96df44784"
+  }
+}

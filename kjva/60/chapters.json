@@ -1,0 +1,72 @@
+{
+  "1": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 1,
+    "name": "1 Peter 1",
+    "url": "https://api.getbible.net/v2/kjva/60/1.json",
+    "sha": "42323446a5f0a8ec17d3bcd5fb16d99b859212af"
+  },
+  "2": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 2,
+    "name": "1 Peter 2",
+    "url": "https://api.getbible.net/v2/kjva/60/2.json",
+    "sha": "9ccaea9722d0feda54481fdb7a0d0de1d1e861ad"
+  },
+  "3": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 3,
+    "name": "1 Peter 3",
+    "url": "https://api.getbible.net/v2/kjva/60/3.json",
+    "sha": "03e56114b5a69df09379a6cabf01bba7fe125dcd"
+  },
+  "4": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 4,
+    "name": "1 Peter 4",
+    "url": "https://api.getbible.net/v2/kjva/60/4.json",
+    "sha": "83bcd7ba6b464a5f22f9a3e4389ddb6762702d0f"
+  },
+  "5": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 60,
+    "book_name": "1 Peter",
+    "chapter": 5,
+    "name": "1 Peter 5",
+    "url": "https://api.getbible.net/v2/kjva/60/5.json",
+    "sha": "ba3f882ec7e37a33cdccbef1e94ee581d07e2f7c"
+  }
+}

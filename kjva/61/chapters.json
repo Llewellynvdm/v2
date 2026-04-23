@@ -1,0 +1,44 @@
+{
+  "1": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 1,
+    "name": "2 Peter 1",
+    "url": "https://api.getbible.net/v2/kjva/61/1.json",
+    "sha": "45bb8929df5f4a1f2c3e1974d6cd368cacf9a0b9"
+  },
+  "2": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 2,
+    "name": "2 Peter 2",
+    "url": "https://api.getbible.net/v2/kjva/61/2.json",
+    "sha": "61be10505bc0e4f34cc6d4446cd585566e152813"
+  },
+  "3": {
+    "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+    "abbreviation": "kjva",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 61,
+    "book_name": "2 Peter",
+    "chapter": 3,
+    "name": "2 Peter 3",
+    "url": "https://api.getbible.net/v2/kjva/61/3.json",
+    "sha": "c44b69ce1ffc6326632a5504c611722e85b18bef"
+  }
+}
