@@ -121,7 +121,7 @@
       "history_3.1": "(2023-07-19) Conf version updated to 3.1 to match KJVA version."
     },
     "url": "https://api.getbible.net/v2/kjv.json",
-    "sha": "91287fccb61d23727204d11d72d2543241ff4862"
+    "sha": "de07da0520cfa9670d949a7a8fa33ab1df07e8ef"
   },
   "kjva": {
     "translation": "King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
